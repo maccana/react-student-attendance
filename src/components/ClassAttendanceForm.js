@@ -4,7 +4,6 @@ const ClassAttendanceForm = () => {
     return (
         <>
             <div style={{ display: 'flex', flexDirection: 'column', width: '80%', margin: 'auto' }}>
-
                 <h2 style={{ textAlign: 'center' }}> Attendance Form </h2>
                 <ul>
                     <li>Create a list students</li>
